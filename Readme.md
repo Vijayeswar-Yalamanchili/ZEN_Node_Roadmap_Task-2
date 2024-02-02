@@ -1,5 +1,7 @@
 Node JS task - Hall booking api
 
+Backend deployment url :  https://zen-node-task2.onrender.com/
+
 use the endpoints given bellow in postman
 
 For Creating room => /rooms/createRoom
